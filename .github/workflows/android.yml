@@ -16,7 +16,7 @@ jobs:
 
     steps:
 
-    - name: Check out code
+    - name: Check out codes
       uses: actions/checkout@v3
     - uses: actions/setup-go@v5
       with: 
